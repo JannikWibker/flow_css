@@ -1,4 +1,8 @@
 ## flow css
+
+**PLEASE DON'T USE IN PRODUCTION** (its buggy and not anywhere near completion, if you are brave enough maybe use it but I advise against it)
+
+
 flow-css is a super small selfmade css preprocessor made to be used with react or other js frameworks ( since flow-css does not have selectors ( *yet* ); you have to use flow-css from inside js and use something like **styled-components** or **styled-jsx** with flow-css ). Flow-css looks a bit like **SASS**, has something that could be called a type system ( the types are '**number**', '**hex**', '**bin**', '**unit**' (a number with a postfix ( like '**px**' )), '**string**' and '**symbol**' (symbol means either css key or function name / call) )
 
 #### type conversion
